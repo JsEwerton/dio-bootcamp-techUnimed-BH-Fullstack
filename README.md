@@ -1,2 +1,3 @@
-# dio-bootcamp-techUnimed-BH-Fullstack
+# Dio-Bootcamp-TechUnimed-BH-Fullstack
+
 Informações do Bootcamp Geração Tech Unimed BH - Fullstack 
